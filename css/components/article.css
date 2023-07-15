@@ -1,0 +1,47 @@
+.article{
+    display: flex;
+    justify-content: space-evenly;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.article_span{
+    color: #000;
+
+    /* Paragraphs/Text M */
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+}
+.article_p{
+    color: var(--gray, #777);
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+.article_a{
+    color: #0A2640;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+}
+.hr{
+    width: 164px;
+    height: 1px;
+    align-self: stretch;
+    background: #0A2640;
+}
+.article_profile{
+    display: flex;
+    gap: 12px;
+}
+.our-blog-article{
+    gap: 20px;
+}

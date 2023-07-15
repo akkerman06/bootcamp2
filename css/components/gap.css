@@ -1,0 +1,32 @@
+.gap-40{
+    display: flex;
+    gap: 40px;
+}
+.gap-50{
+    display: flex;
+    gap: 50px;
+}
+.gap-30{
+    display: flex;
+    gap: 30px;
+}
+.gap-141{
+    display: flex;
+    gap: 210px;
+}
+.gap-24{
+    display: flex;
+    gap: 24px;
+}
+.gap-16{
+    display: flex;
+    gap: 16px;
+}
+.gap-72{
+    display: flex;
+    gap: 72px;
+}
+.gap-100{
+    display: flex;
+    gap: 100px;
+}

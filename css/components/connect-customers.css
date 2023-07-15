@@ -1,0 +1,26 @@
+.connect-customers{
+    margin-top: 124px;
+}
+.connect-customers-button{
+    display: flex;
+    gap: 100px;
+    margin-top: 56px;
+
+}
+.connect-customers-right{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.connect-customers-wrap{
+}
+.connect-customers-right_item1{
+    display: flex;
+    gap: 86px;
+}
+.dark-blue-circle{
+    width: 24px;
+    height: 24px;
+    background-color: #0A2640;
+    border-radius: 100%;
+}

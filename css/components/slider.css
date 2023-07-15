@@ -1,0 +1,108 @@
+.slider{
+    height: 797px;
+    background: var(--dark-blue, #0A2640);
+}
+.slider_text{
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 72px;
+    display: flex;
+
+}
+.arrow-left{
+    border-radius: 100%;
+    background-color: #FFF;
+    width: 72px;
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.arrow-right{
+    border-radius: 100%;
+    background-color: #FFF;
+    width: 72px;
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider_header{
+    display: flex;
+    align-items: center;
+    padding-top: 96px;
+    justify-content: space-between;
+}
+.slider_arrows{
+    display: flex;
+    gap: 28px;
+    margin-top: 60px;
+}
+.slider_comments{
+    display: flex;
+    gap: 22px;
+    margin-top: 72px;
+
+}
+.comment-1{
+    display: flex;
+    padding: 40px;
+    flex-direction: column;
+    gap: 40px;
+    max-width: 350px;
+    height: 322px;
+    border-radius: 12px;
+    background: #FFF;
+    box-shadow: 0px 12px 32px 0px rgba(0, 0, 0, 0.12);
+
+}
+.comment_p{
+    color: #000;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+}
+.slider_avatar{
+    border-radius: 100%;
+}
+.profile-name{
+    color: var(--dark-blue, #0A2640);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+}
+.profile-text{
+    display: flex;
+    flex-direction: column;
+}
+.slider_profile{
+    display: flex;
+    gap: 16px;
+    
+}
+.profile-nick{
+    color: var(--dark-blue, #0A2640);
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.comment-2{
+    display: flex;
+    padding: 40px;
+    flex-direction: column;
+    gap: 40px;
+    max-width: 350px;
+    height: 394px;
+    border-radius: 12px;
+    background: #FFF;
+    box-shadow: 0px 12px 32px 0px rgba(0, 0, 0, 0.12);
+}

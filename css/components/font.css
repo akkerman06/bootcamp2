@@ -1,0 +1,36 @@
+.font-s64{
+    font-size: 64px;
+}
+.font-s16{
+    font-size: 16px;
+}
+.font-little-grey{
+    color: var(--light-grey, #F1F1F1);
+}
+.font-white{
+    color: #FFF;
+}
+.font-s48{
+    font-size: 48px;
+}
+.font-grey{
+    color: var(--gray, #777);
+}
+.line-h72{
+    line-height: 72px
+}
+.font-s96{
+    font-size: 96px;
+}
+.font-primary{
+    color: #4FE9A4;
+}
+.font-light-grey{
+    color: var(--light-grey, #F1F1F1);
+}
+.font-s28{
+    font-size: 28px;
+}
+.font-black{
+    color: black;
+}
